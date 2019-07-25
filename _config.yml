@@ -1,8 +1,8 @@
 # SITE CONFIGURATION
 baseurl: "/web"
 url: "https://sylhare.github.io"
-title: Type on Strap # site's title
-description: "A website with blog posts and pages" # used by search engines
+title: Physics I Guess? # site's title
+description: "Perhaps a blog." # used by search engines
 
 defaults:
   - 
@@ -19,7 +19,7 @@ theme_settings:
   favicon: assets/favicon.ico
 
   # Header and footer text
-  header_text: Change header text in <code>_config.yml</code>
+  header_text: This is rough but working.
   header_feature_image: assets/img/pexels/triangular.jpeg
   footer_text: >
     Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
@@ -100,6 +100,10 @@ authors:
     name: Sylhare
     avatar: "assets/img/avatars/sylhare_avatar.png"
     url: "https://github.com/sylhare"
+  adamG:
+    name: Adam Green
+    avatar: ""
+    email: "agree019@ucr.edu"
 
 # PORTFOLIO
 collections:
