@@ -1,7 +1,7 @@
 ---
+layout: post
 title: Adjusting to the Quarter System
 author-id: adamG
-layout: post
 
 ---
 
