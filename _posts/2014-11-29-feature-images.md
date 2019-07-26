@@ -2,8 +2,8 @@
 layout: post
 title: Feature images
 feature-img: "assets/img/pexels/desk-messy.jpeg"
-thumbnail: "assets/img/thumbnails/desk-messy.jpeg"
-image: "assets/img/thumbnails/book-glass.jpg" #seo tag
+thumbnail: "assets/img/thumbnails/book-glass.jpeg"
+image: "assets/img/thumbnails/desk-messy.jpeg" #seo tag
 tags: [Test, Lorem]
 author-id: sylhare
 ---
