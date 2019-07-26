@@ -10,18 +10,18 @@ defaults:
       path: "" # an empty string here means all files in the project
     values:
       # image: assets/img/triangle.png # seo tag
-      image: assets/img/UCRHEP_03.png
+      image: assets/img/thumbnails/UCRHEP_03.png
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
   # avatar: assets/img/triangle.png
-  avatar: assets/img/UCRHEP_03.png
+  avatar: assets/img/thumbnails/UCRHEP_03.png
   color_image: /assets/img/lineart.png # In post when you set color
   favicon: assets/favicon.ico
 
   # Header and footer text
-  header_text: This is rough but working.
+  header_text: A blog about physics (sortof).
   # header_feature_image: assets/img/pexels/triangular.jpeg
   header_feature_image: assets/img/background3_3.png
   footer_text: >
@@ -107,6 +107,18 @@ authors:
     name: Adam Green
     avatar: "assets/img/avatars/adamG1.png"
     email: "agree019@ucr.edu"
+  adamC:
+    name: Adam Christensen
+    avatar: ""
+    email: ""
+  gerry:
+    name: 
+    avatar: ""
+    email:
+  kayla:
+    name: Kayla
+    avatar: ""
+    email: ""
 
 # PORTFOLIO
 collections:
