@@ -1,6 +1,6 @@
 ---
 title: Adjusting to the Quarter System
-author: Adam Green
+author-id: adamG
 layout: post
 
 ---
