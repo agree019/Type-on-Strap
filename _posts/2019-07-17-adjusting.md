@@ -5,8 +5,6 @@ author-id: adamG
 
 ---
 
-# Adjusting to the Quarter System
-
 
 ### Setting the Scene
 
