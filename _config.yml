@@ -21,7 +21,7 @@ theme_settings:
   favicon: assets/favicon.ico
 
   # Header and footer text
-  header_text: You ever seen a giant squid riding a jet?.
+  header_text: You ever seen a giant squid riding a jet?
   # header_feature_image: assets/img/pexels/triangular.jpeg
   header_feature_image: assets/img/background1_1.png
   footer_text: >
@@ -111,11 +111,11 @@ authors:
     name: Adam Christensen
     avatar: ""
     email: ""
-  gerry:
+  gerryA:
     name: 
     avatar: ""
     email:
-  kayla:
+  kaylaJ:
     name: Kayla
     avatar: ""
     email: ""
