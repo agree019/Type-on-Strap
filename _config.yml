@@ -21,9 +21,9 @@ theme_settings:
   favicon: assets/favicon.ico
 
   # Header and footer text
-  header_text: A blog about physics (sortof).
+  header_text: You ever seen a giant squid riding a jet?.
   # header_feature_image: assets/img/pexels/triangular.jpeg
-  header_feature_image: assets/img/background3_3.png
+  header_feature_image: assets/img/background1_1.png
   footer_text: >
     Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
 
