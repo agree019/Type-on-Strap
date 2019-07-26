@@ -23,7 +23,7 @@ theme_settings:
   # Header and footer text
   header_text: This is rough but working.
   # header_feature_image: assets/img/pexels/triangular.jpeg
-  header_feature_image: assets/img/background1_1.png
+  header_feature_image: assets/img/background2_2.png
   footer_text: >
     Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
 
