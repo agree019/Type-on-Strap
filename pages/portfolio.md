@@ -1,10 +1,12 @@
---- 
+---
 layout: page
-title : Portfolio 
+title : Physics Posts
 permalink: /portfolio/
-subtitle: "Projects I am working on" 
+subtitle: "Posts about Physics, explained by me!" 
 feature-img: "assets/img/pexels/computer.jpeg"
+
 tags: [Archive]
 ---
 
 {% include portfolio.html %}
+
