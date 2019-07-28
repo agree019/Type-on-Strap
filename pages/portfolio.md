@@ -1,7 +1,7 @@
 ---
 layout: page
 title : Physics Posts
-permalink: /portfolio/
+permalink: /physics/
 subtitle: "Posts about Physics, explained by me!" 
 feature-img: "assets/img/pexels/computer.jpeg"
 
