@@ -2,6 +2,7 @@
 title: Discovering the Tau Lepton
 author-id: adamG
 img: "assets/img/physics/tauPlot.png"
+date: 7/27/19
 ---
 
 This plot [1] is the first experimental evidence for the particle that would eventually be named the tau. 
