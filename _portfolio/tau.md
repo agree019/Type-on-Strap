@@ -7,7 +7,7 @@ date: July 27, 2019
 
 This plot [1] is the first experimental evidence for the particle that would eventually be named the tau. 
 
-![](../assets/img/physics/tauPlot.png)
+<img src = "../assets/img/physics/tauPlot.png" height = "400">
 
 On the horizontal axis is the energy of the experiment. This particular experiment collided electron and positron beams. On the vertical axis is the *cross section* of a specific event resulting from the electron and positron beams colliding. The cross section is like a probability for a given event to occur. When two particles collide, many many things can happen, each with their own probability. The *cross section* for an event encodes the probability for that particular event to occur. Events with larger probability have larger cross sections and vice versa. 
 
