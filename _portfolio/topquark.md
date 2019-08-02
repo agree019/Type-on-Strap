@@ -1,5 +1,5 @@
 ---
-layont: post
+layout: post
 title: Discovering the Top Quark
 img: "assets/img/physics/topLogo.png"
 date: July 18, 2019
