@@ -2,7 +2,7 @@
 layont: post
 title: Discovering the Top Quark
 img: "assets/img/physics/topLogo.png"
-date: 07-18-19
+date: July 18, 2019
 ---
 
 This post is about the discovery of the most massive quark in the Standard Model, the top quark. Below is a “discovery plot” [1] from the Collider Detector at Fermilab collaboration (CDF). [Here is the original paper](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.74.2626).
