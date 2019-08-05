@@ -2,8 +2,8 @@
 layout: post
 title: Feature images
 feature-img: "assets/img/background1_1.png"
-thumbnail: "assets/img/thumbnails/background2_2.png"
-image: "assets/img/thumbnails/background3_3.png"
+thumbnail: "assets/img/thumbnails/background2_2.jpg"
+image: "assets/img/thumbnails/background3_3.jpg"
 tags: [Picture]
 author-id: adamG
 ---
