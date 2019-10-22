@@ -1,7 +1,7 @@
 # SITE CONFIGURATION
 baseurl: "/web"
 url: "https://agree019.github.io"
-title: Physics I Guess? # site's title
+title: Physics and Feelings # site's title
 description: "Perhaps a blog." # used by search engines
 
 defaults:
