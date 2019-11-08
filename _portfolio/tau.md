@@ -30,4 +30,8 @@ The production of tau's and these bosons are not equally likely though. Dependin
 
 ### References
 
-[1] - [Evidence for Anomalous Lepton Production in e+−e− Annihilation](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.35.1489)
+[1] - [Evidence for Anomalous Lepton Production in e+−e− Annihilation](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.35.1489). This is the original paper that announced the anomaly that would become the Tau.
+
+[2] - [The Discovery of the Tau Lepton](https://www.slac.stanford.edu/cgi-wrap/getdoc/slac-pub-5937.pdf). This is a comprehensive story of the discovery of the Tau, written by Martin Perl, who would go on to win the 1995 Nobel prize in Physics for its discovery.
+
+[3] - [Lepton Review](http://hyperphysics.phy-astr.gsu.edu/hbase/Particles/lepton.html). Hyperphysics provides an accessible review of the Leptonic sector of the Standard Model.
