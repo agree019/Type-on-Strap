@@ -11,7 +11,7 @@ This post is about the discovery of the most massive quark in the Standard Model
 
 This plot confirms the existence of the top quark. Let’s understand how. 
 
-For each proton collision that passes certain selection conditions, the horizontal axis shows the best estimate of the top quark mass. These selection conditions encode the particle "fingerprint" of the top quark. Out of every single proton collision, we only want to look at ones that perhaps came from top quark decays. This subgroup of events can inform us of a best guess at the top mass. This is what is being plotted on the x axis.
+For each proton collision that passes certain selection conditions, the horizontal axis shows the best estimate of the top quark mass. These selection conditions encode the particle "fingerprint" of the top quark. Out of all possible proton collisions events, we only want to look at ones that perhaps came from top quark decays. This subgroup of events can inform us of a best guess at the mass of the top quark. This is what is being plotted on the x axis.
 
 On the vertical axis are the number of these events. 
 
@@ -27,9 +27,11 @@ Taking a step back from the technicalities, the top quark is special because it 
 
 ---------
 
-### References
+### References / Further Reading
 
-[1] - [Observation of Top Quark Production in pp Collisions with the Collider Detector at Fermilab](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.74.2626)
+[1] - [Observation of Top Quark Production in pp Collisions with the Collider Detector at Fermilab](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.74.2626) - This is the "discovery paper" announcing experimental evidence of the Top.
 
+[2] - [Observation of tt(bar)H Production](https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.120.231801) - Who is to say that the Top and the Higgs even have significant interactions to lowest order? The CMS collaboration finds evidence that they do in fact interact at "tree-level."
 
+[2] - [The Perfect Couple: Higgs and top quark spotted together](https://www.symmetrymagazine.org/article/the-perfect-couple-higgs-and-top-quark-spotted-together) - This article further describes the interconnection between the Higgs and the Top.
 
