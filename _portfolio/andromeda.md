@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Andromeda
+title: Gamma Ray Excess from Andromeda: Evidence for Dark Matter?
 img: "assets/img/physics/AndromedaLogo.png"
 date: Jan 27, 2020
 ---
