@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Gamma Rays from Andromeda: Evidence of Dark Matter
-img: "assets/img/physics/AndromedaLogo.png"
+img: "assets/img/physics/andromedaLogo1.png"
 date: January 27, 2020
 ---
 
