@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Discovering the Tau Lepton
-img: "assets/img/physics/tauLogo.png"
-date: July 27, 2019
+title: Gamma Rays from Andromeda: Evidence of Dark Matter
+img: "assets/img/physics/AndromedaLogo.png"
+date: January 27, 2020
 ---
 
 In a recent paper [1], Chris Karwin et al. report an excess in gamma rays that seem to be originating from our nearest galaxy Andromeda. The amount of excess is arguably insignificant, roughly 3% - 5%. However, the spatial location of this excess is what is interesting. The luminous region of Andromeda is roughly 70 Kpc in diameter [2], but the gamma ray excess is located roughly 120 - 200 Kpc from the center. Below is a roughly-to-scale representation of the spatial extent of Andromeda and the excess:
