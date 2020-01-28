@@ -7,7 +7,7 @@ date: January 27, 2020
 
 In a recent paper [1], Chris Karwin et al. report an excess in gamma rays that seem to be originating from our nearest galaxy Andromeda. The amount of excess is arguably insignificant, roughly 3% - 5%. However, the spatial location of this excess is what is interesting. The luminous region of Andromeda is roughly 70 Kpc in diameter [2], but the gamma ray excess is located roughly 120 - 200 Kpc from the center. Below is a roughly-to-scale representation of the spatial extent of Andromeda and the excess:
 
-<img src = "../assets/img/physics/AndromedaPost_1.png" height = "450">
+<img src = "../assets/img/physics/AndromedaPost_1.png" height = "500">
 
 There may be many possible explanations and interpretations for this excess, one of the more exotic possibilities is dark matter annihilations. The dark matter paradigm says that galaxies form within "dark matter halos," a cloud of dark matter that attracts luminous matter that will eventually form a galaxy [3]. The dark matter halo encompassing Andromeda has a virial radius of about 200 Kpc [4], well beyond the location of the gamma ray excess. This means that there is dark matter at the location of the excess, but how do we start with dark matter and end up with photons?
 
